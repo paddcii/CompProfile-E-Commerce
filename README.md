@@ -20,7 +20,8 @@ Menu -> keranjang (JS) -> Checkout -> QRIS otomatis (nominal sesuai total) atau 
 -> halaman Cek Pesanan terpisah (`cek-status.php`) memakai nomor pesanan.
 
 ## QRIS
-Tempel kode QRIS statis toko di Pengaturan; sistem mengubahnya jadi QRIS dinamis (nominal + CRC16).
+Tempel kode QRIS statis toko di Pengaturan; sistem mengubahnya jadi QRIS dinamis (nominal + CRC16).   
+
 Kosong = QR demo (bukan rekening asli). Belum terhubung payment gateway: kasir memverifikasi lewat mutasi lalu klik
 "Tandai lunas". Untuk verifikasi otomatis, sambungkan Midtrans/Xendit di folder `api/`.
 
