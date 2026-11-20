@@ -1,4 +1,4 @@
-# Warung Nasi Tenda Biru — Company Profile + Pemesanan Online
+ # Warung Nasi Tenda Biru — Company Profile + Pemesanan Online
 
 Stack: PHP 8 (PDO + SQLite) · Bootstrap 5 · JavaScript (keranjang, polling notifikasi, QR).
 
