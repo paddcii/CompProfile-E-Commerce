@@ -28,5 +28,3 @@ Kosong = QR demo (bukan rekening asli). Belum terhubung payment gateway: kasir m
 ## Struktur
 index.php (homepage, 1 file) · pages/ (menu, checkout, pesanan, cek-status) · includes/ · api/ · admin/ · assets/{css,js,images/{menu,hero,gallery}} · database/ (schema.sql, seed.php, warung.sqlite)
  
-
-
